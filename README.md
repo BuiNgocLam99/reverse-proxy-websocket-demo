@@ -27,9 +27,6 @@ reverse-proxy-websocket-demo/
 📦 Cài đặt & Chạy dự án
 sh
 Copy code
-# Clone repo
-git clone https://github.com/your-username/reverse-proxy-websocket-demo.git
-cd reverse-proxy-websocket-demo
 
 # Chạy bằng Docker
 docker-compose up -d
